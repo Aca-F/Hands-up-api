@@ -47,10 +47,10 @@ trap cleanup EXIT
 echo "Warning: This script will clone the repository and build a Docker image."
 read -p "Do you want to continue? (yes/no): " choice
 case "$choice" in
-  yes|Yes|YES )
+  yes|Yes|YES|y|Y )
     echo "Proceeding with the script..."
     ;;
-  no|No|NO )
+  no|No|NO|n|N )
     echo "Exiting script."
     exit 1
     ;;
