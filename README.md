@@ -10,6 +10,8 @@ thier hands above their head.
 
 # Using the script
 
+### Script was tested on Ubuntu, but it should also work on MacOS
+
 To get started, you can download the script using one of this methods:
 
 ```
