@@ -41,7 +41,7 @@ chmod +x startup_script.sh
 ```
 
 When you run the script, you will be asked for the confirmation to clone
-the repository and buld a Docker image. Afterwards you will see the following menu options:
+the repository and build a Docker image. Afterwards you will see the following menu options:
 
 1. **Run tests**: This option will execute the tests using `pytest`.
 2. **Run application**: This option will run the application in a Docker container. The application will be available at `http://localhost:8000`.
