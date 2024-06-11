@@ -40,7 +40,7 @@ chmod +x startup_script.sh
 ./startup_script.sh
 ```
 
-When you run the script, you will be asked for the confirmation to download clone
+When you run the script, you will be asked for the confirmation to clone
 the repository and buld a Docker image. Afterwards you will see the following menu options:
 
 1. **Run tests**: This option will execute the tests using `pytest`.
